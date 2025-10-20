@@ -1,0 +1,12 @@
+node_modules/
+.expo/
+.env
+.env.local
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+dist/
+build/
